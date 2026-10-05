@@ -11,6 +11,8 @@
 ## 👨‍💻 About Me
 - 🎓 Final year student who loves building apps
 - 🤖 Built **AI PitchDeck Generator** as my final year project
+- 🎵 Made a Windows music player (.exe) with Python
+- 📅 Made a college timetable website
 - 🗄️ Interested in Databases (DBMS and SQL)
 - 🌱 Always learning and building new things
 
@@ -24,9 +26,35 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 🚀 Featured Project
+## 🚀 Projects
+
 ### 🎯 [AI PitchDeck Generator](https://github.com/sathishsanthosh831-web/ai-pitchdeck-generator)
 My final year project. It uses AI to generate pitch decks automatically.
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+
+### 📅 [College Timetable Website](https://sathishsanthosh831-web.github.io/my/)
+A simple website I made to check the college timetable easily.
+
+
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+
+[🔗 Live Demo](https://sathishsanthosh831-web.github.io/my/)
+
+### 🎵 Music Player (Windows .exe)
+A desktop music player I built with Python. It has a built-in YouTube downloader (yt-dlp) and an animated dancing character.
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
 
 ## 📊 GitHub Stats
 <p align="center">
