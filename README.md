@@ -11,16 +11,12 @@
 <img src="https://img.shields.io/badge/Status-Available_for_Projects-00c853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open_to-Internships_%26_Jobs-ff6f00?style=for-the-badge" />
 
-<br/><br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👨‍💻 About Me
-- 🎓 **Education:** Final year student (Your Degree, Your College)
+- 🎓 **Education:** Final year student
 - 💻 **Role:** Aspiring Software Developer
 - 🎯 **Career Goal:** Become a skilled software / AI developer
 - 🔭 **Currently working on:** Improving my Music Player and AI PitchDeck Generator
@@ -39,10 +35,8 @@
 | ⚙️ Backend | Python |
 | 🗄️ Databases | DBMS, SQL |
 | 🤖 AI / ML | AI-based projects with Python |
-| ☁️ Cloud | 🌱 Exploring |
 | 🔧 Tools | Git, GitHub, PyInstaller, yt-dlp |
 | 📱 App Development | Python desktop apps (.exe) |
-| 🎮 Game Development | 🌱 Exploring |
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,cpp,python,java,mysql,git,github&theme=dark" />
@@ -68,11 +62,6 @@ My final year project. It uses AI to generate pitch decks automatically.
 
 [
 
-![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00c853?style=for-the-badge)
-
-](https://github.com/sathishsanthosh831-web/ai-pitchdeck-generator)
-[
-
 ![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)
 
 ](https://github.com/sathishsanthosh831-web/ai-pitchdeck-generator)
@@ -90,17 +79,6 @@ A desktop music player with a built-in YouTube downloader (yt-dlp), playlists, t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
-
-[
-
-![Download](https://img.shields.io/badge/⬇️_Download-00c853?style=for-the-badge)
-
-](https://github.com/sathishsanthosh831-web)
-[
-
-![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)
-
-](https://github.com/sathishsanthosh831-web)
 
 ### 📅 College Timetable Website
 A simple website to check the college timetable easily.
@@ -145,15 +123,8 @@ A simple website to check the college timetable easily.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishsanthosh831-web&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sathishsanthosh831-web&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishsanthosh831-web&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7ff&line=302b63&point=ffffff" width="100%"/>
-
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/sathishsanthosh831-web/sathishsanthosh831-web/output/github-snake-dark.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/00f7ff/sathishsanthosh831-web" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -168,8 +139,6 @@ A simple website to check the college timetable easily.
 |---|---|
 | 🥇 Certifications | Add your certificates here |
 | 🎓 Course Completion | Add your courses here |
-| ☁️ Cloud Certifications | Coming soon |
-| 🤖 AI Certifications | Coming soon |
 | 🏅 Hackathons | Add if any |
 | 🎯 Coding Achievements | Add if any |
 
@@ -198,18 +167,6 @@ A simple website to check the college timetable easily.
 ### 💭 Development Philosophy
 > Build, break, fix, repeat. 🔁
 
-### 🧩 Problem-Solving Interests
-Data structures, database queries, and automating boring things with Python.
-
-### 🎮 Games / Anime I Like
-Add your favourites here
-
-### 🎵 Currently Listening
-Add your favourite songs here
-
-### 💻 My Setup
-Windows laptop, Git, GitHub
-
 ### ☕ What I'm Working On Today
 Improving my projects and this profile ✨
 
@@ -219,16 +176,7 @@ Improving my projects and this profile ✨
 
 <p align="center">
 <a href="mailto:sathishsanthosh831@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/sathishsanthosh831-web"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-00c853?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/sathishsanthosh831-web/sathishsanthosh831-web/raw/main/Resume.pdf"><img src="https://img.shields.io/badge/📜_Download_Resume-302b63?style=for-the-badge"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
