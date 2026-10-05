@@ -1,50 +1,48 @@
-# Hi 👋, I'm Sathish Kumar
-Final year student who loves building apps with code 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Sathish%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Final+Year+Student+%F0%9F%8E%93;Python+%7C+Java+%7C+C%2B%2B+Developer+%F0%9F%92%BB;Building+AI+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=sathishsanthosh831-web&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+## 👨‍💻 About Me
+- 🎓 Final year student who loves building apps
+- 🤖 Built **AI PitchDeck Generator** as my final year project
+- 🗄️ Interested in Databases (DBMS and SQL)
+- 🌱 Always learning and building new things
 
 ## 🛠 Skills
-
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ## 🚀 Featured Project
-### 🎯 AI Pitch Generator
-My final year project. It generates pitches using AI.
-- **Tech:** Python, HTML, SQL
-- **Repo:** [View Project](https://github.com/YOUR_USERNAME/ai-pitch-generator)
+### 🎯 [AI PitchDeck Generator](https://github.com/sathishsanthosh831-web/ai-pitchdeck-generator)
+My final year project. It uses AI to generate pitch decks automatically.
 
 ## 📊 GitHub Stats
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishsanthosh831-web&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishsanthosh831-web&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sathishsanthosh831-web&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/yourid) | [Email](mailto:you@example.com)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:sathishsanthosh831@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
