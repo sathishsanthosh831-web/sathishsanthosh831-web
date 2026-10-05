@@ -126,6 +126,15 @@ A simple website to check the college timetable easily.
 ### 📈 Contribution Graph
 <img src="https://ghchart.rshah.org/00f7ff/sathishsanthosh831-web" width="100%"/>
 
+### 🐍 Contribution Snake
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sathishsanthosh831-web/sathishsanthosh831-web/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sathishsanthosh831-web/sathishsanthosh831-web/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sathishsanthosh831-web/sathishsanthosh831-web/output/github-snake-dark.svg" width="100%">
+</picture>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Achievements
