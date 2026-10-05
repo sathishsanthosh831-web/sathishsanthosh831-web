@@ -123,9 +123,6 @@ A simple website to check the college timetable easily.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishsanthosh831-web&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📈 Contribution Graph
-<img src="https://ghchart.rshah.org/00f7ff/sathishsanthosh831-web" width="100%"/>
-
 ### 🐍 Contribution Snake
 <p align="center">
 <picture>
@@ -138,18 +135,9 @@ A simple website to check the college timetable easily.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Achievements
-
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sathishsanthosh831-web&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
-| Type | Details |
-|---|---|
-| 🥇 Certifications | Add your certificates here |
-| 🎓 Course Completion | Add your courses here |
-| 🏅 Hackathons | Add if any |
-| 🎯 Coding Achievements | Add if any |
+- 🤖 Built my final year project: **AI PitchDeck Generator**
+- 🎵 Built a Windows **Music Player .exe** with a YouTube downloader and animated character
+- 🌐 Built and deployed a **College Timetable Website** (live on GitHub Pages)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
